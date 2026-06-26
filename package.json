@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/alban-okoby/sample-ci-qa#readme",
   "devDependencies": {
+    "eslint": "^10.5.0",
     "jest": "^30.4.2"
   }
 }
