@@ -2,12 +2,12 @@ const tasks = [];
 
 function render() {
   const ul = document.getElementById('task-list');
-  ul.innerHTML = '';
+  /*ul.innerHTML = '';
   tasks.forEach((task, idx) => {
     const li = document.createElement('li');
     li.textContent = task.name;
     ul.appendChild(li);
-  });
+  });*/
 }
 
 document.getElementById('add-btn').onclick = () => {
